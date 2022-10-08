@@ -271,7 +271,7 @@ div.main-list {
     display: none;
     margin-top: 10px;
     border-radius: 10px;
-    width: 95%;
+    width: 100%;
   }
   /* elscore  */
   h5.score {
@@ -289,7 +289,7 @@ div.main-list {
     display: none;
     padding: 8px;
     border-radius: 10px;
-    width: 150px;
+    width: 100px;
     background-color: rgb(237, 237, 237);
     color: rgb(41, 41, 41);
     justify-content: center;
@@ -438,7 +438,7 @@ div.main-list {
     display: none;
     margin-top: 10px;
     border-radius: 10px;
-    width: 95%;
+    width: 100%;
   }
   /* elscore  */
   h5.score {
@@ -456,7 +456,7 @@ div.main-list {
     display: none;
     padding: 8px;
     border-radius: 10px;
-    width: 150px;
+    width: 100px;
     background-color: rgb(237, 237, 237);
     color: rgb(41, 41, 41);
     justify-content: center;
